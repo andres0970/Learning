@@ -22,4 +22,4 @@ def test_is_prime():
 
 
 if __name__ == '__main__':
-    all_primes(17)
+    all_primes(8450)
